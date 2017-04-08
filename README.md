@@ -66,7 +66,7 @@ If you chose different options in each experiment, then you're a mix.
 
 <h2><a name="population">Population</a></h2>
 
-SVO population results for people who are typically WEIRD (western, educated, industrialized, rich, democratic):
+SVO population results for people who are WEIRD (western, educated, industrialized, rich, democratic):
 
 * Competitors: ~ 1/8 of people.
 
