@@ -143,11 +143,15 @@ Both groups (proselfs and prosocials) were influenced by their own voice process
 
 The two dominant frames in negotiation theory:
 
-* Competitive a.k.a. positional negotiation model
+* Competitive 
+
+  * A.k.a. positional negotiation model.
 
   * Use techniques such as small concessions, withholding information, beginning with inflated numbers, and other tactics designed to ensure the smallest outcome for one’s adversary along with the highest outcome for oneself.
 
-* Collaborative a.k.a. principled negotiation model
+* Collaborative 
+
+  * A.k.a. principled negotiation model.
 
   * Uses techniques such as asking negotiators to stand in the other party’s shoes, to understand all parties’ interests, and to brainstorm options for mutual gain. 
 
