@@ -4,7 +4,6 @@ Contents:
 * <a href="#introduction">Introduction</a>
 * <a href="#experiment">Experiment</a>
 * <a href="#population">Population</a>
-* <a href="#aims-and-goals">Aims &amp; goals</a>
 * <a href="#simulation-games">Simulation games</a>
 * <a href="#real-world-behavior">Real world behavior</a>
 * <a href="#fairness">Fairnesss</a>
@@ -21,15 +20,19 @@ Contents:
 
 Social value orientation (SVO) is a psychological trait that is defined as an individual’s natural preference with respect to the allocation of resources.
 
-* A "pro-self competitor" wants to maximize their own outcome, relative to others’ outcomes.
+The trait has 2 categories:
 
-* A "pro-self individualist" wants to maximize their own outcome, regardless of others’ outcomes.
+* A "pro-self" person wants to maximize their own outcome.
 
-* A "pro-social cooperator" wants to maximize their group's outcomes, and also ensure others’ equal allocations.
+* A "pro-social" person wants to maximize their group's outcomes.
 
-SVO is measured by tests that have been extensively developed and tweaked over the years. Most tests are WEIRD (western, educated, industrialized, rich, democratic).
+The trait has 3 subcategories:
 
-SVO complements the "Big 5" personality variables in psychology: extraversion, agreeableness, openness, conscientiousness, neuroticism.
+* A pro-self "competitor" wants to maximize their own outcome, relative to others’ outcomes.
+
+* A pro-self "individualist" wants to maximize their own outcome, regardless of others’ outcomes.
+
+* A pro-social "cooperator" wants to maximize their group's outcomes, and also want others’ outcomes to be equivalent.
 
 
 <h2><a name="experiment">Experiment</a></h2>
@@ -52,18 +55,18 @@ Choose which option sounds like you:
 
 Scoring:
 
-* If you chose Option A, then you're a pro-self-competitor.
+* If you chose Option A, then you're a proself competitor.
 
-* If you chose Option B, then you're a pro-self-individualist.
+* If you chose Option B, then you're a proself individualist.
  
-* If you chose Option C, then you're pro-social-cooperator.
+* If you chose Option C, then you're prosocial cooperator.
 
 If you chose different options in each experiment, then you're a mix.
 
 
 <h2><a name="population">Population</a></h2>
 
-SVO population statistics:
+SVO population results for people who are typically WEIRD (western, educated, industrialized, rich, democratic):
 
 * Competitors: approxmiately 1/8 of people.
 
@@ -71,28 +74,10 @@ SVO population statistics:
 
 * Cooperators: approximately 1/2 of people.
 
+SVO testing is extensively developed and has been tweaked over the years. 
 
-<h2><a name="aims-and-goals">Aims &amp; goals</a></h2>
+SVO testing complements the "Big 5" personality variables in psychology: extraversion, agreeableness, openness, conscientiousness, neuroticism.
 
-The pro-self orientation is most concerned with maximizing one's own outcome. 
-
-A pro-self-competitor aims for one goal:
-
-1. Maximize one's own outcomes, especially maximizing the difference between one's own outcomes and other parties' outcomes.
-
-A pro-self-individualist aims for one goal:
-
-1. Maximize one’s own outcomes, regardless of other parties' outcomes.
-
-The pro-social orientation is most concerned with a belief in social responsibility (such as a concern with others’ outcomes) and reciprocity (such as a concern for equality in outcomes).
-
-A pro-social-cooperator aims for three simultaneous goals: 
-
-1. Maximize one's own outcomes.
-
-2. Maximize joint outcomes.
-
-3. Achieve equality in outcomes.
 
 
 <h2><a name="simulation-games">Simulation games</a></h2>
@@ -103,7 +88,7 @@ SVO has significant effects on the outcome of such games, directly affecting how
 
 SVO is also correlated with process behaviors, such as the strategic use of fairness in negotiation. 
 
-* Proself-individualists are tougher and less problem-solving in negotiation settings. 
+* Proself individualists are tougher and less problem-solving in negotiation settings. 
 
 Researchers have distinguished between true concern for fairness, demonstrated by prosocials, and strategic use of fairness by proselfs.
 
@@ -207,7 +192,7 @@ To stimulate prosocial or proself behavior, we can leverage the “nudge” move
 
 * SVO helps to surface the idea that efficiency and individual utility are choices – choices that not everyone is naturally inclined to make.
 
-* With a population split between natural inclination towards prosocial and proself tendencies, the decisions regarding what normative direction in which to “nudge” those who may change their behavior based on the intervention may be hotly contested.
+* When a population is split between being naturally inclined toward prosocial and proself, then people may hotly contest any normative direction for nudging.
 
 
 <h2><a name="thanks">Thanks</a></h2>
