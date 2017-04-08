@@ -2,19 +2,17 @@
 
 Contents:
 * <a href="#introduction">Introduction</a>
-* <a href="#categories">Categories</a>
 * <a href="#experiment">Experiment</a>
-* <a href="#scoring">Scoring</a>
 * <a href="#aims-and-goals">Aims &amp; goals</a>
 * <a href="#simulation-games">Simulation games</a>
 * <a href="#real-world-behavior">Real world behavior</a>
 * <a href="#fairness">Fairnesss</a>
+* <a href="procedural-justice">Procedural justice</a>
 * <a href="#voice">Voice</a>
 * <a href="#negotiation">Negotiation</a>
 * <a href="#getting-to-yes">Getting to yes</a>
 * <a href="#nudges">Utility</a></h2>
 * <a href="#nudges">Nudges</a></h2>
-* <a href="#big-5-personality-variables">Big 5 personality variables</a>
 * <a href="#thanks">Thanks</a>
 
 
@@ -22,12 +20,7 @@ Contents:
 
 Social value orientation (SVO) is a psychological trait that is defined as an individual’s natural preference with respect to the allocation of resources.
 
-Social value orientation is measured by tests that have been extensively developed and tweaked over the years.
-
-
-<h2><a name="categories">Categories</a></h2>
-
-SVO uses three major categories:
+SVO has three major personality categories:
 
 * "Pro-self competitor"
 
@@ -46,6 +39,10 @@ SVO uses three major categories:
   * Wants to maximize the total outcome of the group, and is dedicated to an equal split of resources. 
 
   * Approximately 1/2 of people.
+
+SVO is measured by tests that have been extensively developed and tweaked over the years.
+
+SVO complements the "Big 5" personality variables in psychology: extraversion, agreeableness, openness, conscientiousness, neuroticism.
 
 
 <h2><a name="experiment-1">Experiment</a></h2>
@@ -66,10 +63,7 @@ Choose which option sounds like you:
 
 * Option C: I like to equalize outcomes.
 
-
-<h2><a name="scoring">Scoring</a></h2>
-
-After you try the experiments above, here is the scoring:
+Scoring:
 
 * If you chose Option A, then you're a pro-self-competitor.
 
@@ -111,7 +105,7 @@ SVO has significant effects on the outcome of such games, directly affecting how
 
 SVO is also correlated with process behaviors, such as the strategic use of fairness in negotiation. 
 
-* For example, pro-self-individuals are tougher and less problem-solving in negotiation settings. 
+* Proself-individualists are tougher and less problem-solving in negotiation settings. 
 
 Researchers have distinguished between true concern for fairness, demonstrated by prosocials, and strategic use of fairness by proselfs.
 
@@ -122,35 +116,40 @@ SVO correlates with real world behavior.
 
 Prosocial and proself comparisons:
 
-* Pro-social people donate more to others, especially to the poor and the sick.
+* Prosocials donate more to others, especially to the poor and the sick.
 
-* Pro-social people are more likely to take public transportation, and also to link that decision to issues of collective welfare.
+* Prosocials are more likely to take public transportation, and also to link that decision to issues of collective welfare.
 
-* Pro-social people care most about the equality of procedures, while proself people mainly assess their own procedures without regard to others’ experiences.
+* Prosocials care most about the equality of procedures, while proself people mainly assess their own procedures without regard to others’ experiences.
 
-* Pro-self people have a heightened sensitivity to whether or not they have had a voice in a particular process; this leads to what psychologists call the “egocentric justice hypothesis.”
+* Proselfs have a heightened sensitivity to whether or not they have had a voice in a particular process; this leads to what psychologists call the “egocentric justice hypothesis.”
 
 
 <h2><a name="fairness">Fairnesss</a></h2>
 
-Social value orientation sheds light on how people perceive fairness, and also procedural justice.
+Social value orientation sheds light on how people perceive fairness:
 
-* Pro-self people are largely indifferent to procedures by others.
+* Proselfs are largely indifferent to procedures by others.
 
-* Pro-social people are more attuned to the procedures that the other party experiences.
+* Prosocials are more attuned to the procedures that the other party experiences.
 
-Procedural justice is important to both proself and prosocial individuals. Enhancing procedural justice across the board is a perfect response to the differences in perspective between prosocials and proselfs.
+
+<h2><a name="procedural-justice">Procedural justice</a></h2>
+
+Social value orientation sheds light on how people perceive procedural justice.
+
+Procedural justice is important to both proself and prosocial individuals. 
+
+Enhancing procedural justice across the board is a perfect response to the differences in perspective between prosocials and proselfs.
 
 Procedural justice is a stronger predictor of certain positive behaviors among proself than among prosocial individuals.
 
 
 <h2><a name="voice">Voice</a></h2>
 
-In one study, researchers varied the voice opportunities for both sides in a dispute. 
+In one study, researchers varied the voice opportunities for both sides in a dispute. People were either granted or denied voice in a decision-making process.
 
-* People were either granted or denied voice in a decision-making process.
-
-* Both groups (proselfs and prosocials) were influenced by their own voice process when the other party had a voice.
+Both groups (proselfs and prosocials) were influenced by their own voice process when the other party had a voice.
 
 * Proselfs found the process procedurally just, regardless of whether the other party was granted voice or was denied voice. Prosocials did not.
 
@@ -206,29 +205,15 @@ Thinking about individual decision making from the perspective of individuals wh
 
 <h2><a name="nudges">Nudges</a></h2>
 
-When we want to stimulate prosocial or proself behavior, we can put the prosocial or proself behavior choice squarely in the sights of the “nudge” movement, which seeks to use small interventions to change individual behavior. Most “nudges” seek to change individual behavior in order to overcome cognitive biases.
+To stimulate prosocial or proself behavior, we can leverage the “nudge” movement, which seeks to use small interventions to change individual behavior and overcome cognitive biases.
+
+* SVO helps to surface the idea that efficiency and individual utility are choices – choices that not everyone is naturally inclined to make.
 
 * With a population split between natural inclination towards prosocial and proself tendencies, the decisions regarding what normative direction in which to “nudge” those who may change their behavior based on the intervention may be hotly contested.
-
-* SVO helps to unmask the split, to surface the idea that efficiency and individual utility are choices – choices that not everyone is naturally inclined to make.
-
-
-<h2><a name="big-5-personality-variables">Big 5 personality variables</a></h2>
-
-SVO complements the "Big 5" personality variables in psychology:
-
-* Extraversion
-* Agreeableness
-* Openness
-* Conscientiousness
-* Neuroticism 
-
-These "Big 5" personality variables differ greatly between individuals.
 
 
 <h2><a name="thanks">Thanks</a></h2>
 
-*  This information comes from [Social Value Orientation and the Law by Rebecca Hollander-Blumoff
-](https://ssrn.com/abstract=2944222)
+* This information comes from [Social Value Orientation and the Law by Rebecca Hollander-Blumoff](https://ssrn.com/abstract=2944222)
 
 * This page is maintained by Joel Parker Henderson (joel@joelparkerhenderson.com)
