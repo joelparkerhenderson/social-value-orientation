@@ -159,9 +159,9 @@ SVO offers a useful way to understand the clash between these approaches to nego
 
 Both models purport to provide a way for individuals to maximize their own outcome, but in different ways.
 
-* Competitive a.k.a. positional may be better for people with proself SVO.
+* Competitive (positional) may be better for people with proself SVO.
 
-* Collaborative a.k.a. principled may be better for people with prosocial SVO. 
+* Collaborative (principled) may be better for people with prosocial SVO. 
 
 Negotiation lawyers report that most negotiations are more collaborative than competitive, and that collaborative, problem-solving negotiators were perceived as more effective than their positional counterparts.
 
