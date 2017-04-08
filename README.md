@@ -28,33 +28,42 @@ SVO uses three major categories:
   * Approximately 1/2 of people.
 
 
-## Experiment
-
 Social value orientation is measured by tests that have been extensively developed and tweaked over the years.
 
-For example, a test might ask you to choose between options:
 
-* Option A: 480 points for self and 80 points for other
+## Experiment 1
 
-* Option B: 540 points for self and 280 points for other
+Choose which option sounds best to you:
 
-* Option C: 480 points for self and 480 points for other
+* Option A: 480 points for yourself and 80 points for the other
 
-For another example, a test might ask you to describe yourself:
+* Option B: 540 points for you and 280 points for the other
 
-* Option A: I like to “win” relative to other people.
+* Option C: 480 points for you and 480 points for the other
+
+
+## Experiment 2
+
+Choose which option sounds like you:
+
+* Option A: I like to win relative to other people.
 
 * Option B: I like to gain the largest share of resources for myself. 
 
 * Option C: I like to equalize outcomes.
 
-Rubric:
 
-* If you chose Option A then you're a pro-self-competitor.
+## Experimental results
 
-* If you chose Option B then you're a pro-self-individualist.
+After you try the two experiments above, here are the results:
+
+* If you chose Option A, then you're a pro-self-competitor.
+
+* If you chose Option B, then you're a pro-self-individualist.
  
-* If you chose Option C then ou're pro-social-cooperator.
+* If you chose Option C, then you're pro-social-cooperator.
+
+If you chose different options in each experiment, then you're a mix.
 
 
 ## Aims
