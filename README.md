@@ -141,21 +141,23 @@ Both groups (proselfs and prosocials) were influenced by their own voice process
 
 <h2><a name="negotiation">Negotiation</a></h2>
 
-The two dominant frames in negotiation theory are:
+The two dominant frames in negotiation theory:
 
-* Positional negotiation a.k.a. competitive model
+* Competitive a.k.a. positional negotiation model
 
   * Use techniques such as small concessions, withholding information, beginning with inflated numbers, and other tactics designed to ensure the smallest outcome for one’s adversary along with the highest outcome for oneself.
 
-* Principled negotiation a.k.a. collaborative model
+* Collaborative a.k.a. principled negotiation model
 
   * Uses techniques such as asking negotiators to stand in the other party’s shoes, to understand all parties’ interests, and to brainstorm options for mutual gain. 
 
-SVO offers a useful way to understand the clash between these approaches to negotiation. Both models purport to provide a way for individuals to maximize their own outcome, but in different ways.
+SVO offers a useful way to understand the clash between these approaches to negotiation. 
 
-* The positional model may be better for people with proself SVO.
+Both models purport to provide a way for individuals to maximize their own outcome, but in different ways.
 
-* The principled model may be better for people with prosocial SVO. 
+* Competitive a.k.a. positional may be better for people with proself SVO.
+
+* Collaborative a.k.a. principled may be better for people with prosocial SVO. 
 
 Negotiation lawyers report that most negotiations are more collaborative than competitive, and that collaborative, problem-solving negotiators were perceived as more effective than their positional counterparts.
 
