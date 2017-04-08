@@ -68,11 +68,11 @@ If you chose different options in each experiment, then you're a mix.
 
 SVO population results for people who are typically WEIRD (western, educated, industrialized, rich, democratic):
 
-* Competitors: approxmiately 1/8 of people.
+* Competitors: ~ 1/8 of people.
 
-* Individualists: approximately 1/4 of people.
+* Individualists: ~ 1/4 of people.
 
-* Cooperators: approximately 1/2 of people.
+* Cooperators: ~ 1/2 of people.
 
 SVO testing is extensively developed and has been tweaked over the years. 
 
