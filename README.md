@@ -3,6 +3,7 @@
 Contents:
 * <a href="#introduction">Introduction</a>
 * <a href="#experiment">Experiment</a>
+* <a href="#population">Population</a>
 * <a href="#aims-and-goals">Aims &amp; goals</a>
 * <a href="#simulation-games">Simulation games</a>
 * <a href="#real-world-behavior">Real world behavior</a>
@@ -22,30 +23,18 @@ Social value orientation (SVO) is a psychological trait that is defined as an in
 
 SVO has three major personality categories:
 
-* "Pro-self competitor"
+* "Pro-self competitor": I want to maximize my own outcomes, relative to others’ outcomes.
 
-  * Wants to maximize the relative difference between their own and others’ outcomes.
+* "Pro-self individualist": I want to maximize my own outcomes, regardless of others’ outcomes.
 
-  * Approxmiately 1/8 of people.
+* "Pro-social cooperator": I want to maximize my group's outcomes, and ensure others’ equal allocations.
 
-* "Pro-self individualist" 
-
-  * Wants to maximize their own outcome per the rational actor model.
-
-  * Approximately 1/4 of people.
-
-* "Pro-social cooperator"
-
-  * Wants to maximize the total outcome of the group, and is dedicated to an equal split of resources. 
-
-  * Approximately 1/2 of people.
-
-SVO is measured by tests that have been extensively developed and tweaked over the years.
+SVO is measured by tests that have been extensively developed and tweaked over the years. Most tests are WEIRD (western, educated, industrialized, rich, democratic).
 
 SVO complements the "Big 5" personality variables in psychology: extraversion, agreeableness, openness, conscientiousness, neuroticism.
 
 
-<h2><a name="experiment-1">Experiment</a></h2>
+<h2><a name="experiment">Experiment</a></h2>
 
 Choose which option sounds best to you:
 
@@ -72,6 +61,17 @@ Scoring:
 * If you chose Option C, then you're pro-social-cooperator.
 
 If you chose different options in each experiment, then you're a mix.
+
+
+<h2><a name="population">Population</a></h2>
+
+SVO population statistics:
+
+* Competitors: approxmiately 1/8 of people.
+
+* Individualists: approximately 1/4 of people.
+
+* Cooperators: approximately 1/2 of people.
 
 
 <h2><a name="aims-and-goals">Aims &amp; goals</a></h2>
