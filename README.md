@@ -140,7 +140,7 @@ These "Big 5" personality variables differ greatly between individuals.
 
 <h2><a name="thanks">Thanks</a></h2>
 
-*  This information href="# from [Social Value Orientation and the Law by Rebecca Hollander-Blumoff
+*  This information comes from [Social Value Orientation and the Law by Rebecca Hollander-Blumoff
 ](https://ssrn.com/abstract=2944222)
 
 * This page is maintained by Joel Parker Henderson (joel@joelparkerhenderson.com)
