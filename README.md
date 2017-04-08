@@ -8,6 +8,12 @@ Contents:
 * <a href="#aims-and-goals">Aims &amp; goals</a>
 * <a href="#simulation-games">Simulation games</a>
 * <a href="#real-world-behavior">Real world behavior</a>
+* <a href="#fairness">Fairnesss</a>
+* <a href="#voice">Voice</a>
+* <a href="#negotiation">Negotiation</a>
+* <a href="#getting-to-yes">Getting to yes</a>
+* <a href="#nudges">Utility</a></h2>
+* <a href="#nudges">Nudges</a></h2>
 * <a href="#big-5-personality-variables">Big 5 personality variables</a>
 * <a href="#thanks">Thanks</a>
 
@@ -123,6 +129,88 @@ Prosocial and proself comparisons:
 * Pro-social people care most about the equality of procedures, while proself people mainly assess their own procedures without regard to others’ experiences.
 
 * Pro-self people have a heightened sensitivity to whether or not they have had a voice in a particular process; this leads to what psychologists call the “egocentric justice hypothesis.”
+
+
+<h2><a name="fairness">Fairnesss</a></h2>
+
+Social value orientation sheds light on how people perceive fairness, and also procedural justice.
+
+* Pro-self people are largely indifferent to procedures by others.
+
+* Pro-social people are more attuned to the procedures that the other party experiences.
+
+Procedural justice is important to both proself and prosocial individuals. Enhancing procedural justice across the board is a perfect response to the differences in perspective between prosocials and proselfs.
+
+Procedural justice is a stronger predictor of certain positive behaviors among proself than among prosocial individuals.
+
+
+<h2><a name="voice">Voice</a></h2>
+
+In one study, researchers varied the voice opportunities for both sides in a dispute. 
+
+* People were either granted or denied voice in a decision-making process.
+
+* Both groups (proselfs and prosocials) were influenced by their own voice process when the other party had a voice.
+
+* Proselfs found the process procedurally just, regardless of whether the other party was granted voice or was denied voice. Prosocials did not.
+
+* Prosocials even preferred a no voice condition (in which both parties were denied voice) to a condition where only one side received a voice.
+
+
+<h2><a name="negotiation">Negotiation</a></h2>
+
+The two dominant frames in negotiation theory are:
+
+* Positional negotiation a.k.a. competitive model
+
+  * Use techniques such as small concessions, withholding information, beginning with inflated numbers, and other tactics designed to ensure the smallest outcome for one’s adversary along with the highest outcome for oneself.
+
+* Principled negotiation a.k.a. collaborative model
+
+  * Uses techniques such as asking negotiators to stand in the other party’s shoes, to understand all parties’ interests, and to brainstorm options for mutual gain. 
+
+SVO offers a useful way to understand the clash between these approaches to negotiation. Both models purport to provide a way for individuals to maximize their own outcome, but in different ways.
+
+* The positional model may be better for people with proself SVO.
+
+* The principled model may be better for people with prosocial SVO. 
+
+Negotiation lawyers report that most negotiations are more collaborative than competitive, and that collaborative, problem-solving negotiators were perceived as more effective than their positional counterparts.
+
+Additionally, research suggests that a prosocial SVO also fosters more collaborative behavior during negotiation. Prosocial individuals “create” more procedural justice during negotiations, while proself individuals “create” less.
+
+
+<h2><a name="getting-to-yes">Getting to yes</a></h2>
+
+An understanding of SVO may provide negotiators with a useful insight: even a negotiator with a proself SVO may become convinced of the strategic need to care about the other party’s outcome. Indeed, this may be the most provocative idea in the book "Getting to Yes". 
+
+Acting collaborative can be the best tool to maximize your own interests, and convincing the other party – even if it is purely self-interested – that it needs to care about your interests in order to meet its own goals can be a tremendously effective negotiation strategy.
+
+
+<h2><a name="utility">Utility</a></h2>
+
+SVO challenges the utility assumptions of law and economics. We are not all – or even mostly – rational actors in the sense of wishing our own utility to be maximized across all settings. Real human psychology does not match the rational-actor assumptions; we must consider actual human behavior.
+
+* The basic economics framework to maximize collective utility has been understood to be to maximize individual utility and then aggregate. 
+
+* Each individual, acting in the service of his or her own individual utility, will collectively maximize societal utility.
+
+But a focus on aggregation of individual utility blinds us to the importance of relational conceptions of utility:
+
+* Approximately half the population (prosocial collaborators) values utility as an even split of resources, even at a loss to self, and potentially even when the total pie is smaller. This suggests that our understanding of utility ought consistently to be more capacious. 
+
+* Another significant portion of the population (proself competitors) values utility as besting others, even when their own economic results may suffer. 
+
+Thinking about individual decision making from the perspective of individuals who are focused on relational outcomes offers a radically different angle from which to view utility.
+
+
+<h2><a name="nudges">Nudges</a></h2>
+
+When we want to stimulate prosocial or proself behavior, we can put the prosocial or proself behavior choice squarely in the sights of the “nudge” movement, which seeks to use small interventions to change individual behavior. Most “nudges” seek to change individual behavior in order to overcome cognitive biases.
+
+* With a population split between natural inclination towards prosocial and proself tendencies, the decisions regarding what normative direction in which to “nudge” those who may change their behavior based on the intervention may be hotly contested.
+
+* SVO helps to unmask the split, to surface the idea that efficiency and individual utility are choices – choices that not everyone is naturally inclined to make.
 
 
 <h2><a name="big-5-personality-variables">Big 5 personality variables</a></h2>
