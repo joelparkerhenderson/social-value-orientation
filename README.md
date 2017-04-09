@@ -169,9 +169,11 @@ Additionally, research suggests that a prosocial SVO also fosters more collabora
 
 <h2><a name="getting-to-yes">Getting to yes</a></h2>
 
-An understanding of SVO may provide negotiators with a useful insight: even a negotiator with a proself SVO may become convinced of the strategic need to care about the other party’s outcome. Indeed, this may be the most provocative idea in the book "Getting to Yes". 
+An understanding of SVO may provide negotiators with a useful insight: even a negotiator with a proself SVO may become convinced of the strategic need to care about the other party’s outcome. 
 
 Acting collaborative can be the best tool to maximize your own interests, and convincing the other party – even if it is purely self-interested – that it needs to care about your interests in order to meet its own goals can be a tremendously effective negotiation strategy.
+
+Indeed, this may be the most provocative idea in the book "Getting to Yes". 
 
 
 <h2><a name="utility">Utility</a></h2>
