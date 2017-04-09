@@ -79,7 +79,6 @@ SVO testing is extensively developed and has been tweaked over the years.
 SVO testing complements the "Big 5" personality variables in psychology: extraversion, agreeableness, openness, conscientiousness, neuroticism.
 
 
-
 <h2><a name="simulation-games">Simulation games</a></h2>
 
 People who measure as "cooperators" through an SVO measurement tool display greater actual cooperation in experimental games involving the distribution of resources, such as the prisoner’s dilemma, the ultimatum game, and the dictator game, than people who have been classified as individualists and competitors.
@@ -194,11 +193,11 @@ Thinking about individual decision making from the perspective of individuals wh
 
 <h2><a name="nudges">Nudges</a></h2>
 
-To stimulate prosocial or proself behavior, we can leverage the “nudge” movement, which seeks to use small interventions to change individual behavior and overcome cognitive biases.
+To stimulate proself behavior or prosocial behavior, we can leverage the “nudge” movement, which seeks to use small interventions to change individual behavior and overcome cognitive biases.
 
 * SVO helps to surface the idea that efficiency and individual utility are choices – choices that not everyone is naturally inclined to make.
 
-* When a population is split between being naturally inclined toward prosocial and proself, then people may hotly contest any normative direction for nudging.
+* When a population is split between being naturally inclined toward proself and prosocial, then people may hotly contest any normative direction for nudging.
 
 
 <h2><a name="thanks">Thanks</a></h2>
