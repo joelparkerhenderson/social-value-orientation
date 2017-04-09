@@ -184,11 +184,11 @@ SVO challenges the utility assumptions of law and economics. We are not all – 
 
 But a focus on aggregation of individual utility blinds us to the importance of relational conceptions of utility:
 
-* Approximately half the population (prosocial collaborators) values utility as an even split of resources, even at a loss to self, and potentially even when the total pie is smaller. This suggests that our understanding of utility ought consistently to be more capacious. 
+* A significant portion (1/8) of the general population is proself competitors, and they value utility in relation to besting others, even when their own economic results may suffer. 
 
-* Another significant portion of the population (proself competitors) values utility as besting others, even when their own economic results may suffer. 
+* A significant portion (1/2) of the general population is prosocial collaborators, and they value utility in relation to an even split of resources among others, even at a loss to self, and potentially even when the total pie is smaller. 
 
-Thinking about individual decision making from the perspective of individuals who are focused on relational outcomes offers a radically different angle from which to view utility.
+Our understanding of utility needs to be more capacious. Thinking about individual decision making from the perspective of individuals who are focused on relational outcomes offers a radically different angle from which to view utility.
 
 
 <h2><a name="nudges">Nudges</a></h2>
