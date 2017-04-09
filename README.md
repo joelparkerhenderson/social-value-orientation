@@ -20,19 +20,19 @@ Contents:
 
 Social value orientation (SVO) is a psychological trait that is defined as an individual’s natural preference with respect to the allocation of resources.
 
-The trait has 2 categories:
+SVO has 2 categories:
 
 * A "pro-self" person wants to maximize their own outcome.
 
 * A "pro-social" person wants to maximize their group's outcomes.
 
-The trait has 3 subcategories:
+SVO has 3 subcategories:
 
-* A pro-self "competitor" wants to maximize their own outcome, relative to others’ outcomes.
+* A pro-self "competitor" wants to maximize their own outcome relative to others’ outcomes.
 
-* A pro-self "individualist" wants to maximize their own outcome, regardless of others’ outcomes.
+* A pro-self "individualist" wants to maximize their own outcome regardless of others’ outcomes.
 
-* A pro-social "cooperator" wants to maximize their group's outcomes, and also want others’ outcomes to be equivalent.
+* A pro-social "cooperator" wants to maximize their group's outcomes, and wants all outcomes to be equivalent.
 
 
 <h2><a name="experiment">Experiment</a></h2>
@@ -45,7 +45,7 @@ Choose which option sounds best to you:
 
 * Option C: 480 points for you and 480 points for the other
 
-Choose which option sounds like you:
+Choose which option sounds like it describes you:
 
 * Option A: I like to win relative to other people.
 
