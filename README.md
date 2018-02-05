@@ -1,32 +1,32 @@
 # Social Value Orientation
 
-Contents:
-* <a href="#introduction">Introduction</a>
-* <a href="#experiment">Experiment</a>
-* <a href="#population">Population</a>
-* <a href="#simulation-games">Simulation games</a>
-* <a href="#real-world-behavior">Real world behavior</a>
-* <a href="#fairness">Fairnesss</a>
-* <a href="procedural-justice">Procedural justice</a>
-* <a href="#voice">Voice</a>
-* <a href="#negotiation">Negotiation</a>
-* <a href="#getting-to-yes">Getting to yes</a>
-* <a href="#nudges">Utility</a></h2>
-* <a href="#nudges">Nudges</a></h2>
-* <a href="#thanks">Thanks</a>
-
-
-<h2><a name="introduction">Introduction</a></h2>
-
 Social value orientation (SVO) is a psychological trait that is defined as an individual’s natural preference with respect to the allocation of resources.
 
-SVO has 2 categories:
+TOC:
+* [Categories](#categories)
+* [Experiment](#experiment)
+* [Population](#population)
+* [Simulation games](#simulation-games)
+* [Real world behavior](#real-world-behavior)
+* [Fairnesss](#fairnesss)
+* [Procedural justice](#procedural-justice)
+* [Voice](#voice)
+* [Negotiation](#negotiation)
+* [Getting to yes](#getting-to-yes)
+* [Utility](#utility)
+* [Nudges](#nudges)
+* [Thanks](#thanks)
+
+
+## Categories
+
+Social value orientation has two categories:
 
 * A "pro-self" person wants to maximize their own outcome.
 
 * A "pro-social" person wants to maximize their group's outcomes.
 
-SVO has 3 subcategories:
+Social value orientation has three subcategories:
 
 * A pro-self "competitor" wants to maximize their own outcome relative to others’ outcomes.
 
@@ -35,7 +35,7 @@ SVO has 3 subcategories:
 * A pro-social "cooperator" wants to maximize their group's outcomes, and wants all outcomes to be equivalent.
 
 
-<h2><a name="experiment">Experiment</a></h2>
+## Experiment
 
 Choose which option sounds best to you:
 
@@ -64,7 +64,7 @@ Scoring:
 If you chose different options in each experiment, then you're a mix.
 
 
-<h2><a name="population">Population</a></h2>
+## Population
 
 SVO population results for people who are WEIRD (western, educated, industrialized, rich, democratic):
 
@@ -79,7 +79,7 @@ SVO testing is extensively developed and has been tweaked over the years.
 SVO testing complements the "Big 5" personality variables in psychology: extraversion, agreeableness, openness, conscientiousness, neuroticism.
 
 
-<h2><a name="simulation-games">Simulation games</a></h2>
+## Simulation games
 
 People who measure as "cooperators" through an SVO measurement tool display greater actual cooperation in experimental games involving the distribution of resources, such as the prisoner’s dilemma, the ultimatum game, and the dictator game, than people who have been classified as individualists and competitors.
 
@@ -92,7 +92,7 @@ SVO is also correlated with process behaviors, such as the strategic use of fair
 Researchers have distinguished between true concern for fairness, demonstrated by prosocials, and strategic use of fairness by proselfs.
 
 
-<h2><a name="real-world-behavior">Real world behavior</a></h2>
+## Real world behavior
 
 SVO correlates with real world behavior. 
 
@@ -107,7 +107,7 @@ Prosocial and proself comparisons:
 * Proselfs have a heightened sensitivity to whether or not they have had a voice in a particular process; this leads to what psychologists call the “egocentric justice hypothesis.”
 
 
-<h2><a name="fairness">Fairnesss</a></h2>
+## Fairnesss
 
 Social value orientation sheds light on how people perceive fairness:
 
@@ -116,7 +116,7 @@ Social value orientation sheds light on how people perceive fairness:
 * Prosocials are more attuned to the procedures that the other party experiences.
 
 
-<h2><a name="procedural-justice">Procedural justice</a></h2>
+## Procedural justice
 
 Social value orientation sheds light on how people perceive procedural justice.
 
@@ -127,7 +127,7 @@ Enhancing procedural justice across the board is a perfect response to the diffe
 Procedural justice is a stronger predictor of certain positive behaviors among proself than among prosocial individuals.
 
 
-<h2><a name="voice">Voice</a></h2>
+## Voice
 
 In one study, researchers varied the voice opportunities for both sides in a dispute. People were either granted or denied voice in a decision-making process.
 
@@ -138,7 +138,7 @@ Both groups (proselfs and prosocials) were influenced by their own voice process
 * Prosocials even preferred a no voice condition (in which both parties were denied voice) to a condition where only one side received a voice.
 
 
-<h2><a name="negotiation">Negotiation</a></h2>
+## Negotiation
 
 The two dominant frames in negotiation theory:
 
@@ -167,7 +167,7 @@ Negotiation lawyers report that most negotiations are more collaborative than co
 Additionally, research suggests that a prosocial SVO also fosters more collaborative behavior during negotiation. Prosocial individuals “create” more procedural justice during negotiations, while proself individuals “create” less.
 
 
-<h2><a name="getting-to-yes">Getting to yes</a></h2>
+## Getting to yes
 
 An understanding of SVO may provide negotiators with a useful insight: even a negotiator with a proself SVO may become convinced of the strategic need to care about the other party’s outcome. 
 
@@ -176,7 +176,7 @@ Acting collaborative can be the best tool to maximize your own interests, and co
 This may be the most provocative idea in the book "Getting to Yes". 
 
 
-<h2><a name="utility">Utility</a></h2>
+## Utility
 
 SVO challenges the utility assumptions of law and economics. We are not all – or even mostly – rational actors in the sense of wishing our own utility to be maximized across all settings. Real human psychology does not match the rational-actor assumptions; we must consider actual human behavior.
 
@@ -193,7 +193,7 @@ But a focus on aggregation of individual utility blinds us to the importance of 
 Our understanding of utility needs to be more capacious. Thinking about individual decision making from the perspective of individuals who are focused on relational outcomes offers a radically different angle from which to view utility.
 
 
-<h2><a name="nudges">Nudges</a></h2>
+## Nudges
 
 To stimulate proself behavior or prosocial behavior, we can leverage the “nudge” movement, which seeks to use small interventions to change individual behavior and overcome cognitive biases.
 
@@ -202,7 +202,7 @@ To stimulate proself behavior or prosocial behavior, we can leverage the “nudg
 * When a population is split between being naturally inclined toward proself and prosocial, then people may hotly contest any normative direction for nudging.
 
 
-<h2><a name="thanks">Thanks</a></h2>
+## Thanks
 
 * This information comes from [Social Value Orientation and the Law by Rebecca Hollander-Blumoff](https://ssrn.com/abstract=2944222)
 
