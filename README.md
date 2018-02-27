@@ -1,8 +1,17 @@
+<!--
+  * browser: social-value-orientation
+  * tracker: f44c30d1b876f8987cf78c727e573542
+  * version: 1.2.0
+  * updated: 2018-02-24T03:07:23Z
+  * contact: Joel Parker Henderson (http://joelparkerhenderson.com)
+  * options: commentable
+-->
+
 # Social Value Orientation
 
 Social value orientation (SVO) is a psychological trait that is defined as an individual’s natural preference with respect to the allocation of resources.
 
-TOC:
+Contents:
 * [Categories](#categories)
 * [Experiment](#experiment)
 * [Population](#population)
